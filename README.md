@@ -3,7 +3,7 @@ Nhu Y (Joyce)</a></h1>
 <h3 align="center">Frontend developer and UI/UX designer </h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="400" height="175" width="200" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg3NWZkNDFkNGVlZjRjNTFlOTIxOWZiZDI0Y2JkZDE3MzQ0YjNiYSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/XXSMhnj7BeCPMWnIT9/giphy.gif">
+  <img align="right" top="400" height="150" width="300" alt="GIF" src="https://media.giphy.com/media/F99PZtJC8Hxm0/giphy.gif?cid=ecf05e47wghoyn1n6tt2xoourzkxxgmhg6du4jxq38fc4w31&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </a>
 
 - 🌱 I’m currently a CS student at UIT - VNUHCM
