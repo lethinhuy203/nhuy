@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Nhu Y (Joyce)</a></h1>
-<h3 align="center">Frontend developer and Data Analyst </h3>
+<h3 align="center">Frontend Developer and Data Analyst </h3>
 
 <a target="_blank" align="center">
   <img align="right" top="400" height="150" width="300" alt="GIF" src="https://media.giphy.com/media/F99PZtJC8Hxm0/giphy.gif?cid=ecf05e47wghoyn1n6tt2xoourzkxxgmhg6du4jxq38fc4w31&ep=v1_gifs_search&rid=giphy.gif&ct=g">
