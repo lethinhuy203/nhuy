@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Nhu Y (Joyce)</a></h1>
+<h1 align="center">Hi 👋, I'm Nhu Y (Joyce)</h1>
 <h3 align="center">Frontend Developer and Data Analyst </h3>
 
 <a target="_blank" align="center">
